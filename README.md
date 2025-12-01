@@ -1,12 +1,12 @@
-<h3 align="center">i like computer science and math a bit</h3>
+<h3 align="center">hi</h3>
 
+- i like computer science and math a bit
 - currently working on [abstraction search (never getting done)](https://github.com/mohatomohatomohatomohatomohatomoha/abstraction-search-dev)
-
-- im a huge fan of **liar game, alice in borderland, hxh, death note, ace attorney, geometry dash, and jujutsu kaisen**
+- huge fan of liar game, alice in borderland, hxh, death note, ace attorney, geometry dash, and jujutsu kaisen
 
 <h3 align="left">socials:</h3>
 <p align="left">
-<a href="https://instagram.com/mohatomoha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohatomoha" height="30" width="40" /></a>
+<a href="https://instagram.com/mohatomoha" target="blank">a<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohatomoha" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">tools:</h3>
