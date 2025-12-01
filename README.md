@@ -3,6 +3,6 @@
 <p>currently working on <a href="https://github.com/mohatomohatomohatomohatomohatomoha/abstraction-search-dev">abstraction search (never getting done)</a></p>
 <p>im a huge fan of alice in borderland, liar game, hunter x hunter, death note, ace attorney, geometry dash, and jujutsu kaisen</p>
 <p>i use python, java, and c++ (rarely)</p>
-<p>frontend development is a bottom 5 activity oat</p>
+<p>best auditory breaker progress: 49-100, 65-100, 29-71</p>
 
 
